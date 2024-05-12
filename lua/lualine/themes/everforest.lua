@@ -35,12 +35,12 @@ return {
     c = {bg = palette.bg1[1], fg = palette.fg[1]}
   },
   command = {
-    a = {bg = palette.aqua[1], fg = palette.bg0[1], gui = 'bold'},
+    a = {bg = palette.yellow[1], fg = palette.bg0[1], gui = 'bold'},
     b = {bg = palette.bg3[1], fg = palette.fg[1]},
     c = {bg = palette.bg1[1], fg = palette.fg[1]}
   },
   terminal = {
-    a = {bg = palette.purple[1], fg = palette.bg0[1], gui = 'bold'},
+    a = {bg = palette.grey2[1], fg = palette.bg0[1], gui = 'bold'},
     b = {bg = palette.bg3[1], fg = palette.fg[1]},
     c = {bg = palette.bg1[1], fg = palette.fg[1]}
   },
