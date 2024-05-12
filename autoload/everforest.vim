@@ -140,7 +140,7 @@ function! everforest#get_palette(background, colors_override) "{{{
           \ 'grey0':      ['#7a8478',   '243'],
           \ 'grey1':      ['#859289',   '245'],
           \ 'grey2':      ['#9da9a0',   '247'],
-          \ 'statusline1':['#a7c080',   '142'],
+          \ 'statusline1':['#A9CD73',   '142'],
           \ 'statusline2':['#d3c6aa',   '223'],
           \ 'statusline3':['#e67e80',   '167'],
           \ 'none':       ['NONE',      'NONE']
