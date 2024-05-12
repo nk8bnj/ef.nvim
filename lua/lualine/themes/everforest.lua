@@ -21,28 +21,28 @@ return {
   },
   insert = {
     a = {bg = palette.statusline2[1], fg = palette.bg0[1], gui = 'bold'},
-    b = {bg = palette.bg3[1], fg = palette.fg[1]},
-    c = {bg = palette.bg1[1], fg = palette.fg[1]}
+    b = {bg = palette.bg3[1], fg = palette.statusline2[1]},
+    c = {bg = palette.bg1[1], fg = palette.grey1[1]}
   },
   visual = {
     a = {bg = palette.statusline3[1], fg = palette.bg0[1], gui = 'bold'},
-    b = {bg = palette.bg3[1], fg = palette.fg[1]},
-    c = {bg = palette.bg1[1], fg = palette.fg[1]}
+    b = {bg = palette.bg3[1], fg = palette.statusline3[1]},
+    c = {bg = palette.bg1[1], fg = palette.grey1[1]}
   },
   replace = {
     a = {bg = palette.orange[1], fg = palette.bg0[1], gui = 'bold'},
-    b = {bg = palette.bg3[1], fg = palette.fg[1]},
-    c = {bg = palette.bg1[1], fg = palette.fg[1]}
+    b = {bg = palette.bg3[1], fg = palette.orange[1]},
+    c = {bg = palette.bg1[1], fg = palette.grey1[1]}
   },
   command = {
     a = {bg = palette.yellow[1], fg = palette.bg0[1], gui = 'bold'},
-    b = {bg = palette.bg3[1], fg = palette.fg[1]},
-    c = {bg = palette.bg1[1], fg = palette.fg[1]}
+    b = {bg = palette.bg3[1], fg = palette.yellow[1]},
+    c = {bg = palette.bg1[1], fg = palette.grey1[1]}
   },
   terminal = {
     a = {bg = palette.grey2[1], fg = palette.bg0[1], gui = 'bold'},
-    b = {bg = palette.bg3[1], fg = palette.fg[1]},
-    c = {bg = palette.bg1[1], fg = palette.fg[1]}
+    b = {bg = palette.bg3[1], fg = palette.grey2[1]},
+    c = {bg = palette.bg1[1], fg = palette.grey1[1]}
   },
   inactive = {
     a = {bg = palette.bg1[1], fg = palette.grey1[1]},
